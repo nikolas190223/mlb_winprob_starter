@@ -1,0 +1,96 @@
+gamePk,gameDate,home,away,home_win
+777847,2025-05-20,Pittsburgh Pirates,Cincinnati Reds,1
+777850,2025-05-20,Miami Marlins,Chicago Cubs,0
+777851,2025-05-20,Boston Red Sox,New York Mets,1
+777841,2025-05-20,Washington Nationals,Atlanta Braves,1
+777848,2025-05-20,Tampa Bay Rays,Houston Astros,1
+777849,2025-05-20,New York Yankees,Texas Rangers,1
+777845,2025-05-20,Toronto Blue Jays,San Diego Padres,1
+777846,2025-05-20,Chicago White Sox,Seattle Mariners,1
+777844,2025-05-20,Milwaukee Brewers,Baltimore Orioles,1
+777840,2025-05-20,St. Louis Cardinals,Detroit Tigers,0
+777842,2025-05-20,Colorado Rockies,Philadelphia Phillies,0
+777836,2025-05-20,San Francisco Giants,Kansas City Royals,1
+777843,2025-05-20,Athletics,Los Angeles Angels,0
+777838,2025-05-20,Los Angeles Dodgers,Arizona Diamondbacks,1
+777839,2025-05-20,Minnesota Twins,Cleveland Guardians,0
+777859,2025-05-19,Pittsburgh Pirates,Cincinnati Reds,0
+777863,2025-05-19,Miami Marlins,Chicago Cubs,1
+777856,2025-05-19,Boston Red Sox,New York Mets,1
+777858,2025-05-19,Tampa Bay Rays,Houston Astros,0
+777861,2025-05-19,Minnesota Twins,Cleveland Guardians,1
+777857,2025-05-19,Chicago White Sox,Seattle Mariners,0
+777860,2025-05-19,Milwaukee Brewers,Baltimore Orioles,1
+777862,2025-05-19,St. Louis Cardinals,Detroit Tigers,1
+777852,2025-05-19,Colorado Rockies,Philadelphia Phillies,0
+777855,2025-05-19,San Francisco Giants,Kansas City Royals,0
+777853,2025-05-19,Athletics,Los Angeles Angels,0
+777854,2025-05-19,Los Angeles Dodgers,Arizona Diamondbacks,0
+777869,2025-05-18,Texas Rangers,Houston Astros,0
+777873,2025-05-18,Baltimore Orioles,Washington Nationals,0
+777880,2025-05-18,Philadelphia Phillies,Pittsburgh Pirates,1
+777876,2025-05-18,Boston Red Sox,Atlanta Braves,0
+777871,2025-05-18,Toronto Blue Jays,Detroit Tigers,0
+777874,2025-05-18,Cincinnati Reds,Cleveland Guardians,1
+777877,2025-05-18,Miami Marlins,Tampa Bay Rays,1
+777864,2025-05-18,Kansas City Royals,St. Louis Cardinals,1
+777865,2025-05-18,Milwaukee Brewers,Minnesota Twins,1
+777872,2025-05-18,Chicago Cubs,Chicago White Sox,1
+777867,2025-05-18,San Francisco Giants,Athletics,1
+777870,2025-05-18,Arizona Diamondbacks,Colorado Rockies,1
+777866,2025-05-18,Los Angeles Dodgers,Los Angeles Angels,0
+777868,2025-05-18,San Diego Padres,Seattle Mariners,0
+777878,2025-05-18,New York Yankees,New York Mets,1
+777888,2025-05-17,New York Yankees,New York Mets,0
+777881,2025-05-17,Chicago Cubs,Chicago White Sox,1
+777886,2025-05-17,Toronto Blue Jays,Detroit Tigers,1
+777890,2025-05-17,Baltimore Orioles,Washington Nationals,0
+777889,2025-05-17,Miami Marlins,Tampa Bay Rays,0
+777894,2025-05-17,Philadelphia Phillies,Pittsburgh Pirates,1
+777892,2025-05-17,Cincinnati Reds,Cleveland Guardians,1
+777882,2025-05-17,Texas Rangers,Houston Astros,1
+777885,2025-05-17,Kansas City Royals,St. Louis Cardinals,0
+777893,2025-05-17,Boston Red Sox,Atlanta Braves,1
+777883,2025-05-17,Milwaukee Brewers,Minnesota Twins,0
+777887,2025-05-17,Arizona Diamondbacks,Colorado Rockies,0
+777875,2025-05-17,San Diego Padres,Seattle Mariners,0
+777879,2025-05-17,San Francisco Giants,Athletics,1
+777884,2025-05-17,Los Angeles Dodgers,Los Angeles Angels,0
+777900,2025-05-16,Chicago Cubs,Chicago White Sox,1
+777902,2025-05-16,Cincinnati Reds,Cleveland Guardians,1
+777905,2025-05-16,Philadelphia Phillies,Pittsburgh Pirates,1
+777907,2025-05-16,Baltimore Orioles,Washington Nationals,0
+777904,2025-05-16,New York Yankees,New York Mets,1
+777906,2025-05-16,Toronto Blue Jays,Detroit Tigers,0
+777908,2025-05-16,Boston Red Sox,Atlanta Braves,0
+777903,2025-05-16,Miami Marlins,Tampa Bay Rays,1
+777901,2025-05-16,Kansas City Royals,St. Louis Cardinals,0
+777895,2025-05-16,Texas Rangers,Houston Astros,0
+777898,2025-05-16,Milwaukee Brewers,Minnesota Twins,0
+777897,2025-05-16,Arizona Diamondbacks,Colorado Rockies,1
+777896,2025-05-16,San Diego Padres,Seattle Mariners,0
+777899,2025-05-16,Los Angeles Dodgers,Los Angeles Angels,0
+777891,2025-05-16,San Francisco Giants,Athletics,1
+777909,2025-05-15,Atlanta Braves,Washington Nationals,1
+777911,2025-05-15,Baltimore Orioles,Minnesota Twins,0
+777912,2025-05-15,Cincinnati Reds,Chicago White Sox,1
+777913,2025-05-15,Toronto Blue Jays,Tampa Bay Rays,0
+777910,2025-05-15,Texas Rangers,Houston Astros,1
+777946,2025-05-15,Los Angeles Dodgers,Athletics,1
+777924,2025-05-14,Baltimore Orioles,Minnesota Twins,0
+777938,2025-05-14,Baltimore Orioles,Minnesota Twins,0
+777922,2025-05-14,Philadelphia Phillies,St. Louis Cardinals,1
+777933,2025-05-14,Philadelphia Phillies,St. Louis Cardinals,0
+777925,2025-05-14,Cleveland Guardians,Milwaukee Brewers,0
+777916,2025-05-14,San Francisco Giants,Arizona Diamondbacks,0
+777915,2025-05-14,Seattle Mariners,New York Yankees,0
+777927,2025-05-14,Detroit Tigers,Boston Red Sox,1
+777923,2025-05-14,Toronto Blue Jays,Tampa Bay Rays,1
+777919,2025-05-14,New York Mets,Pittsburgh Pirates,0
+777928,2025-05-14,Cincinnati Reds,Chicago White Sox,0
+777929,2025-05-14,Atlanta Braves,Washington Nationals,0
+777921,2025-05-14,Chicago Cubs,Miami Marlins,0
+777918,2025-05-14,Texas Rangers,Colorado Rockies,1
+777920,2025-05-14,Houston Astros,Kansas City Royals,1
+777914,2025-05-14,San Diego Padres,Los Angeles Angels,1
+777917,2025-05-14,Los Angeles Dodgers,Athletics,1
