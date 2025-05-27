@@ -1,0 +1,27 @@
+name: daily-refresh
+
+on:
+  schedule:
+    # every day at 6 AM Pacific Time
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install pandas numpy scikit-learn xgboost joblib requests pytz streamlit tqdm
+
+      - name: Run daily pipeline
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python run_daily.py
